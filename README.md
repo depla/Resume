@@ -1,4 +1,4 @@
-insert photo here
+![profile picture](dla.png)
 # Dennis La
 ## Contact Info: dennisla95@yahoo.com
 
