@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+insert photo here
+# Dennis La
+## Contact Info: dennisla95@yahoo.com
 
-You can use the [editor on GitHub](https://github.com/depla/Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Education
+- **University of California, Irvine**
+BS in Pharmaceutical Sciences 2012-2016, GPA 3.54
+- **Mission Hills High School**
+High School Diploma 2008-2012, GPA 4.60
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Skills
+- **Primary Language**: Java
+- **Secondary Language**: C++
+- **Operating Systems**: Mac OS, Windows
 
-### Markdown
+## Highlights:
+- Quick learner
+- Conscientious
+- Self-motivated
+- Great Teamwork
+- Excellent Communication
+- Ability to work flexible shifts
+- Good listening skills
+- Organized
+- Proficient with the use of Microsoft Office applications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Honors and Awards
+-**UC Irvine - Deans Honor List (6 times) 2012-2016**
+For achieving a quarterly GPA of 3.5 or higher
+-**Cardinal Scholar Award -2012**
+For graduating seniors with at least a 4.0 overall GPA
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/depla/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
