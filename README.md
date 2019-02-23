@@ -27,7 +27,7 @@ High School Diploma 2008-2012, GPA 4.60
 ## Honors and Awards
 - **UC Irvine - Deans Honor List (6 times) 2012-2016**
 For achieving a quarterly GPA of 3.5 or higher
-- **Cardinal Scholar Award -2012**
+- **Mission Hills High School - Cardinal Scholar Award 2012**
 For graduating seniors with at least a 4.0 overall GPA
 
 
