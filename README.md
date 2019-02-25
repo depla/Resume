@@ -13,6 +13,13 @@ High School Diploma 2008-2012, GPA 4.60
 - **Secondary Language**: C++
 - **Operating Systems**: Mac OS, Windows
 
+## Work Experience:
+- **Ionis Pharmaceuticals - Document Control Clerk, Oct 2016 - Jan 2019**
+  - Review and organize clinical research and drug manufacturing documentation
+  - Perform routine environmental monitoring of drug manufacturing labs 
+  - Take water samples and inoculating agar media using aseptic techniques
+  - Responsible for training new hires working directly with me
+
 ## Highlights:
 - Quick learner
 - Conscientious
