@@ -16,9 +16,9 @@ High School Diploma 2008-2012, GPA 4.60
 ## Work Experience:
 - **Ionis Pharmaceuticals - Document Control Clerk, Oct 2016 - Jan 2019**
   - Review and organize clinical research and drug manufacturing documentation
-  - Perform routine environmental monitoring of drug manufacturing labs 
-  - Take water samples and inoculating agar media using aseptic techniques
   - Responsible for training new hires working directly with me
+  - Perform routine environmental monitoring of drug manufacturing labs 
+    - Take water samples and inoculate agar media using aseptic techniques
 
 ## Highlights:
 - Quick learner
